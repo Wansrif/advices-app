@@ -1,0 +1,21 @@
+@import '@styles/base';
+
+.light {
+  @include wrapper;
+  @include light-theme;
+}
+
+.dark {
+  @include wrapper;
+  @include dark-theme;
+}
+
+.pastel {
+  @include wrapper;
+  @include pastel-theme;
+}
+
+.vintage {
+  @include wrapper;
+  @include vintage-theme;
+}
