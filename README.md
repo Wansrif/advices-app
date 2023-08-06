@@ -6,7 +6,7 @@ This is an Advice App that fetches random pieces of advice using the [Advice Sli
 
 ## Demo
 
-![Screenshot](screenshots/screenshot.png)
+![Screenshot](public/screenshot.png)
 
 [Live Demo](https://wanrif-advices.netlify.app/)
 
